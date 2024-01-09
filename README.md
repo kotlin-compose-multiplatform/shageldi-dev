@@ -1,4 +1,3 @@
-<h1 align="center">Hi , I'm Shageldi Alyyew 👋</h1>
 
 
 ## :sassy_man:  About me
