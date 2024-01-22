@@ -1,7 +1,6 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Middle` at GeekSpace Turkmenistan
 - :trophy: Winner of `Sanly-Cozgut-2021, Sanly-Cozgut-2022`
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a Full Stack web and mobile developer
